@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @svnflxwer a.k.a Sinatria Banyu Adil
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Java, PHP, C, C++, HTML,and Python
+- 👀 I’m interested in front end development and back-end development
+- 🌱 I’m currently learning Java, PHP, C, C++, HTML, and Python
 - 💞️ I’m looking to collaborate on my future project soon
 - 📫 How to reach me, Find me on IG : @half.humanss
 
